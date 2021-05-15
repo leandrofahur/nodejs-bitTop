@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leandrofahur/nodejs-bitTop/issues"
   },
-  "homepage": "https://github.com/leandrofahur/nodejs-bitTop#readme"
+  "homepage": "https://github.com/leandrofahur/nodejs-bitTop#readme",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
 }
