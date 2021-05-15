@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-bittop",
+  "version": "1.0.0",
+  "description": "A htop like cli app for bitcoin trading market",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrofahur/nodejs-bitTop.git"
+  },
+  "author": "Leandro Miranda Fahur Machado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandrofahur/nodejs-bitTop/issues"
+  },
+  "homepage": "https://github.com/leandrofahur/nodejs-bitTop#readme"
+}
